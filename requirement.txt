@@ -88,7 +88,7 @@ vine==1.1.4
 virtualenv==15.1.0
 visitor==0.1.3
 w3lib==1.18.0
-Werkzeug==0.13
+Werkzeug==0.15.3
 WTForms==2.1
 xadmin==0.6.1
 xlrd==1.1.0
